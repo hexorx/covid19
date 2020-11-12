@@ -33,5 +33,7 @@ module Covid19
     # Middleware like session, flash, cookies can be added back manually.
     # Skip views, helpers and assets when generating a new resource.
     config.api_only = true
+
+    config.feed_url = 'https://api.covidtracking.com/v1'
   end
 end

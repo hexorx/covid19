@@ -1,0 +1,22 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+co1:
+  date: 1
+  state_id: co
+  deaths: 1
+  hospitalized: 1
+  positive: 1
+
+co2:
+  date: 2
+  state_id: co
+  deaths: 1
+  hospitalized: 1
+  positive: 1
+
+ha1:
+  date: 1
+  state_id: hi
+  deaths: 1
+  hospitalized: 1
+  positive: 1

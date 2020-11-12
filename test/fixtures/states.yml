@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+co:
+  code: co
+  name: Colorado
+  notes: CONote
+  twitter: COTwitter
+  site: COSite
+
+hi:
+  code: hi
+  name: Hawaii
+  notes: HINote
+  twitter: HITwitter
+  site: HISite
