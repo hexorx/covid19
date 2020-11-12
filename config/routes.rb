@@ -5,6 +5,7 @@ Rails.application.routes.draw do
       resources :states, only: [:index, :show] do
         resources :reports, only: [:index]
       end
+      resources :searches, only: [:create, :show]
     end
   end
 end
